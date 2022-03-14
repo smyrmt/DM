@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import sklearn.metrics as mt
 from sklearn import preprocessing
 #import dataset
 df=pd.read_csv("student-mat.csv")
